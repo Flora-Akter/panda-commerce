@@ -41,10 +41,27 @@
 }
 .card{
     border: none;
-    box-shadow: 10px 10px 10px lightgray;
     border-radius: 10px;
+    box-shadow: 10px 10px 10px lightgray;
 }
 .card-footer{
     background-color: white;
     border-top: none;
+}
+.sub{
+    position:relative;
+    left: 100px;
+    top: 10px;
+}
+#subcribe{
+    height: 300px;
+}
+#subcribe h6{
+    color: gray;
+}
+footer{
+    text-align: center;
+}
+#footer{
+    color: rgb(3, 3, 32);
 }
